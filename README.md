@@ -27,15 +27,28 @@ Dashboard for global car data
 - علاقة السعر بكفاءة المحرك (Price vs Motor Efficiency)
 - إجمالي القيمة المالية لكل براند
 
-## الـ Visualizations الموجودة
-- **Pie Chart** → توزيع أنواع الوقود  
-- **Donut Chart** → نسبة Manual vs Automatic  
-- **Cards** → متوسط السعر + عدد السيارات  
-- **Bar Chart** → عدد السيارات لكل ماركة  
-- **Line Chart** → أسعار السيارات عبر السنين  
-- **Line / Scatter Chart** → السعر مقابل كفاءة المحرك  
-- **Horizontal Bar Chart** → إجمالي القيمة لكل براند
+## Visualizations
+- **Pie Chart** → توزيع أنواع الوقود
+![Visualizations](Fuel-Type.png)
 
+- **Pie Chart** → نسبة Manual vs Automatic  
+![Visualizations](Manual-VS-automatic.png)
+
+- **Cards** → متوسط السعر + عدد السيارات  
+Num-of-Cars
+![Visualizations](Num-of-Cars.png) ![Visualizations](Avg-Price-car.png) 
+
+- **Colunm Chart** → عدد السيارات لكل ماركة  
+![Visualizations](Num-of-Brand.png) 
+
+- **Line Chart** → أسعار السيارات عبر السنين  
+![Visualizations](Car-prices-model-year.png) 
+
+- **Area Chart** → السعر مقابل كفاءة المحرك  
+![Visualizations](Price-vs-Efficiency.png) 
+
+- **Bar Chart** → إجمالي القيمة لكل براند
+![Visualizations](Total-price-for-brand.png) 
 ## البيانات المستخدمة
 - الملف: `global_cars_dataset.csv` 
 - عدد السجلات: حوالي 300 سيارة داخل معرض

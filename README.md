@@ -1,10 +1,11 @@
 # Global-Cars-Dashborad
 Dashboard for global car data
+## Dashboard Visualizations
+![ Dashboard Visualizations](dashborad.png)
 
 
 <!-- 
-  - ارفع صورة الاسكرين شوت في مجلد screenshots داخل الريبو
-  - سمّي الصورة dashboard.png أو غيّر الاسم هنا حسب ما رفعت
+ 
 -->
 
 لوحة تحكم تفاعلية لبيانات السيارات العالمية مبنية باستخدام **Power BI**.
@@ -28,14 +29,16 @@ Dashboard for global car data
 - إجمالي القيمة المالية لكل براند
 
 ## Visualizations
+
 - **Pie Chart** → توزيع أنواع الوقود
+
 ![Visualizations](Fuel-Type.png)
 
 - **Pie Chart** → نسبة Manual vs Automatic  
 ![Visualizations](Manual-VS-automatic.png)
 
-- **Cards** → متوسط السعر + عدد السيارات  
-Num-of-Cars
+- **Cards** → متوسط السعر السيارة + عدد السيارات  
+
 ![Visualizations](Num-of-Cars.png) ![Visualizations](Avg-Price-car.png) 
 
 - **Colunm Chart** → عدد السيارات لكل ماركة  
